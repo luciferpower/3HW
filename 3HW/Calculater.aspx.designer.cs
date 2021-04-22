@@ -7,10 +7,12 @@
 // </自動產生的>
 //------------------------------------------------------------------------------
 
-namespace _3HW {
+namespace _3HW
+{
 
 
-    public partial class Calculater {
+    public partial class Calculater
+    {
 
         /// <summary>
         /// form1 控制項。
